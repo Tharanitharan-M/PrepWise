@@ -65,15 +65,3 @@ This project is designed to deploy on [Vercel](https://vercel.com). Follow the V
 
 ### Demo
 You can view the live demo of this project at [PrepWise Demo](https://prep-wise-one-mu.vercel.app/).
-
-## Contributing
-
-Contributions are welcome! If you encounter bugs or have ideas for new features, feel free to open issues or submit pull requests.
-
-## License
-
-[Specify your license here, e.g., MIT License]
-
-## Further Information
-
-Refer to the original project walkthrough video for detailed instructions on setting up APIs, implementing AI logic, designing the UI, and deploying the application.
