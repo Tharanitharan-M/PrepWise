@@ -16,7 +16,7 @@ export async function POST(request: Request) {
 
   try {
     const { text: rawQuestions } = await generateText({
-      model: google("gemini-2.0-flash-001"),
+      model: google("gemini-3-flash-preview"),
       prompt: `You are an expert technical interviewer with deep experience in assessing candidates for roles in technology companies. Your task is to create tailored interview questions based on the candidate's resume and the job description provided.
 
 Resume:
